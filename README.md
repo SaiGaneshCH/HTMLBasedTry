@@ -1,2 +1,3 @@
 # HTMLBasedtry
-This i s to try a html code to host a sample
+<html> <h1>This i s to try a html code to host a sample</h1> </html>
+
